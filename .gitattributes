@@ -1,3 +1,8 @@
 *.java linguist-detectable=false
+*.xml linguist-detectable=true
+*.groovy linguist-detectable=true
+*.gradle linguist-detectable=true
 *.kotlin linguist-detectable=true
+*.androidsdk linguist-detectable=true
+*.android linguist-detectable=true
 
